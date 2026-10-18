@@ -1,0 +1,4 @@
+-- Document Website => BEAT-ZA Hunger is intended as an educational website for cheap, available, and plentiful food making for many different users from various walks of life.
+-- This was modeled with simplicity in mind with as much user accessibility in mind to get the information out.
+- This document and any subsequent material can be used freely and openly throughout all purposes and intentions.
+- No artificial intelligence was used during this process.
